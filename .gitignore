@@ -1,0 +1,11 @@
+# Binaries for programs and plugins
+/gogenesis
+/*.exe
+/gogenesis.exe
+.idea/
+
+# Test binary, built with `go test -c`
+*.test
+
+# misc
+plutus.json
