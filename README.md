@@ -8,6 +8,12 @@ The typescript generator is for use with [Lucid Evolution](https://github.com/An
 
 ## Demo
 
+
+
+https://github.com/user-attachments/assets/ac351e92-af93-4471-bd48-87f2083a8bab
+
+
+
 ## Installation
 
 Download from: https://github.com/mgpai22/gogenesis/releases/
