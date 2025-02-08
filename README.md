@@ -2,6 +2,10 @@
 
 Gogenesis is a command-line tool that converts a CIP-0057 Plutus blueprint schema (`plutus.json`) into code types for multiple target languages. Currently, only TypeScript is supported.
 
+## Installation
+
+Download from: https://github.com/mgpai22/gogenesis/releases/
+
 ## Directory Structure
 
 - **cmd/gogenesis/main.go**: The main entry point which parses CLI flags, loads the Plutus JSON, and invokes the appropriate code generator.
@@ -10,7 +14,7 @@ Gogenesis is a command-line tool that converts a CIP-0057 Plutus blueprint schem
   - **internal/generator/typescript/**: Implements the TypeScript code generator.
   - **internal/generator/golang/**: Implements the Go code generator.
 
-## Installation
+## Build Instructions
 
 1. **Clone the repository:**
 
